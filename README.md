@@ -9,10 +9,10 @@ bitwise operations, and more. The basics of web development are covered, as well
 with which the course successfully builds an idea among students about the upcoming professional modules and 
 the knowledge they will gain from them to become successful software developers.
 
-# - Skills you will acquire
-# Handling the standard functionality of the programming language
-# Problem analysis and reduction to computer-executable steps
-# Basics of web development
-# Understanding the interrelationship between different IT concepts
-# Basic HTML and CSS skills
-# Working with linear data structures
+- Skills you will acquire
+- Handling the standard functionality of the programming language
+- Problem analysis and reduction to computer-executable steps
+- Basics of web development
+- Understanding the interrelationship between different IT concepts
+- Basic HTML and CSS skills
+- Working with linear data structures
